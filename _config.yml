@@ -11,7 +11,7 @@ head-title: neobradley blog
 title: neobradley blog
 
 baseurl: "/neobradley.github.io"    # the subpath of your site, "/blog"
-url: ""
+url: "https://neobradley.github.io"
 
 # footer 
 description: "如果沒能一次成功，那就叫它 1.0 版吧！"
