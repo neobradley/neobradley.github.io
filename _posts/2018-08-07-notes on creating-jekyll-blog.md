@@ -5,8 +5,6 @@ date:   2018-08-07
 categories: [blog, jekyll]
 ---
 
-
-
 Jekyll also offers powerful support for code snippets:
 ``` ruby
 def print_hi(name)
