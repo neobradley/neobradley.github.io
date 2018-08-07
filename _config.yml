@@ -15,7 +15,7 @@ url: ""
 description: "如果沒能一次成功，那就叫它 1.0 版吧！"
 
 favo: "略懂略懂"
-descrpt: "“”  ——《南华经》"
+descrpt: "“學而時習之，不亦樂乎”  ——《論語》"
 
 #
 # Build settings
@@ -37,7 +37,7 @@ sass:
 
 permalink: /posts/:categories/:title.html
 
-paginate: 7
+paginate: 15
 #paginate_path: 'page/:num'
 
 gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
@@ -48,14 +48,14 @@ gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
 
 # Color
 # All css class, see: http://materializecss.com/color.html
-header-color: "blue-grey darken-3"
-head-theme-color: "#37474f"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
+header-color: "grey darken-4"
+head-theme-color: "#212121"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
 
-footer-color: "blue-grey darken-3"
+footer-color: "grey darken-4"
 footer-button-color: "blue-grey darken-4"
 footer-link-color: "red-text text-accent-1"
 
-share-button-color: "pink"
+share-button-color: "teal"
 share-button-small-color: ""
 
 ##

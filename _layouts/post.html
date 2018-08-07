@@ -6,8 +6,8 @@ layout: default
 
 <div class="container post-container">
   <div class="post-page card-panel z-depth-2">
+    <button id="post-page-backward" class="waves-effect waves-light hide-on-small-only" type="button"><i class="mdi mdi-arrow-left-bold small white-text"></i></button>
   <div class="post-section">
-
     <p class="grey-text">
       <i class="mdi mdi-calendar"></i>&nbsp;
       {% if page.date %}{{ page.date | date: "%b %-d, %Y" }}{% else %}unknown{% endif %}
@@ -47,3 +47,8 @@ layout: default
   {% endif %}
 
 </div>
+<script>
+  document.getElementById('post-page-backward').addEventListener('click', function() {
+    window.history.back();
+  });
+</script>
