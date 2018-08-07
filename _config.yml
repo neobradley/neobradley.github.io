@@ -2,8 +2,10 @@
 
 author: neobradley
 email: vic.william2005@gmail.com
-twitter_username: ryxstephen2010
 github_username:  neobradley
+linkedin_username: yuyu-lai-479a00120
+facebook_username: tajg2011
+#twitter_username: ryxstephen2010
 
 head-title: neobradley blog
 title: neobradley blog
@@ -48,15 +50,17 @@ gems: [jekyll-paginate, jekyll-last-modified-at, jemoji]
 
 # Color
 # All css class, see: http://materializecss.com/color.html
+# Icon
+# All mdi icon, see: https://materialdesignicons.com/
 header-color: "grey darken-4"
 head-theme-color: "#212121"     # MUST in hex format, may the same as header-color. This color is for android chrome browser.
 
 footer-color: "grey darken-4"
 footer-button-color: "blue-grey darken-4"
-footer-link-color: "red-text text-accent-1"
+footer-link-color: "green-text text-accent-1"
 
 share-button-color: "teal"
-share-button-small-color: ""
+share-button-small-color: "teal"
 
 ##
 #excerpt_separator: <!-- excerpt_end -->       # for post.excerpt
