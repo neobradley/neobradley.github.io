@@ -4,20 +4,34 @@ title: About
 permalink: /about/
 ---
 
-#### Tagline
+### Tagline
 
-Your tagline.
+Viva La Vie
 
-#### Introduction
+### Introduction
 
-Introduce yourself.
+#### Sports
 
-#### This theme
+> Volleyball
+* [Taichung PingLin Elementary School](http://www.ples.tc.edu.tw/) 1998-2000
+
+> Basketball
+* [Baguio Berkeley School](http://www.berkeley.edu.ph/) 2005-2009
+* [DLSU LSAL Catch2T13](http://www.dlsu.edu.ph/) 2009-2012
+* [CPG Basketball Club](http://www.cpg-ltd.com/) 2014-2018
+
+##### Movies
+
+##### Music
+
+##### Profession
+
+### This theme
 
 This [jekyll](https://jekyllrb.com) theme is based on [materialize](http://materializecss.com). For more detail, you can view the github repo: [mumuxme/materialize-jekyll](https://github.com/mumuxme/materialize-jekyll)
 
 
-#### License
+### License
 
 Copyright&nbsp;&copy;&nbsp;{{ site.author }}
 
@@ -29,6 +43,6 @@ As for all articles(except reference) are under [CC Attribution-ShareAlike 4.0 I
 
 - - -
 
-#### Personal information
+### Personal information
 
 Email: {{ site.email }}
